@@ -1,1 +1,0 @@
-# board-zerynth-heltec_wifikit32
